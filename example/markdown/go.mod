@@ -1,4 +1,4 @@
-module github.com/swaggo/swag/example/markdown
+module github.com/ShivaTeja18/swag/example/markdown
 
 go 1.17
 
