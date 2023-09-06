@@ -1,4 +1,4 @@
-module github.com/swaggo/swag/example/object-map-example
+module github.com/ShivaTeja18/swag/example/object-map-example
 
 go 1.17
 
